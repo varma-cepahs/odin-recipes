@@ -1,2 +1,2 @@
 # odin-recipes
-making a recipe in html
+making a recipe
